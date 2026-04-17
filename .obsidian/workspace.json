@@ -194,11 +194,14 @@
       "templater-obsidian:Templater": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c93a9b06549ee9c9",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "README.md",
     "06-恢复拉伸/驼背矫正.md",
     "06-恢复拉伸/日常拉伸计划.md",
     "Pasted image 20260417171110.png",
@@ -225,7 +228,6 @@
     "raw/transcripts/mathhammers_sub/WarpHammer Math - Videos_part1.md",
     "05-爱好/战锤数学/战锤数学知识总总结.md",
     "05-爱好/战锤数学/基础概率计算.md",
-    "05-爱好/越野跑/总览.md",
     "05-爱好/跑步/总览.md.tmp.11132.1775986675604",
     "raw/transcripts/mathhammers_sub",
     "raw/transcripts",
