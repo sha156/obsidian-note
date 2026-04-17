@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(claude mcp:*)",
+      "Bash(dir /s /b \"D:\\\\*.obsidian\")",
+      "Bash(dir /s /b \"C:\\\\Users\\\\Administrator\\\\*.obsidian\")",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Administrator\" -Filter \".obsidian\" -Recurse -Directory -Depth 3 -ErrorAction SilentlyContinue)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(curl -s -k https://localhost:27124)",
+      "Bash(curl -s -k http://localhost:27124)",
+      "Bash(npm search:*)",
+      "Bash(npm info:*)",
+      "Bash(curl -s -k http://localhost:27123 -H \"Authorization: Bearer e1c18f8af3fa52e3a0579cd1cc5461558bdd92ab21d686b72df39e65eed2a395\")",
+      "Bash(npx obsidian-mcp:*)",
+      "Bash(kill %1)"
+    ]
+  }
+}
